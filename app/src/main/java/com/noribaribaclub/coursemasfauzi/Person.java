@@ -14,5 +14,8 @@ public class Person {
 
     //Ini komentar dari Senno
 
+    //Ini komentar dari Fauzi
+
+
     //Ini komentar dari Senno Lagi.....
 }
