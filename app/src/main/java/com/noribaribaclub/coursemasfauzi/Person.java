@@ -20,4 +20,6 @@ public class Person {
     //Ini komentar dari Senno Lagi.....
 
     //Ini komentar senno di Branch Master
+
+    //ini komentar senno di Brach master Lagiiiiihhhhhh....
 }
